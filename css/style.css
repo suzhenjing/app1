@@ -141,7 +141,7 @@ span.loc{
 /*--- Banner Parts Ends Here ---*/
 /*--- Content Parts Starts Here ---*/
 .content{
-	padding:4em 0;
+	padding:1em 0;
 }
 .content-row-column{
 	text-align:center;
@@ -367,7 +367,7 @@ img.icon6{
 /*--- About part Ends Here----*/
 /*---- Portfolio Starts Here ---*/
 .portfolio{
-	padding:2em 0;
+	padding:1em 0;
 }
 .portfolio-top-row{
 	margin:4em 0
@@ -557,7 +557,7 @@ h3.m_4{
 }
 /*---- Contact part Starts Here --*/
 .contact{
-	padding:2em 0;
+	padding:1em 0;
 	min-height:600px;
 }
 .contact-text{
